@@ -1,0 +1,13 @@
+.no-data-display__container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+}
+
+.no-data-display__button {
+  width: fit-content;
+  align-items: center;
+  gap: 6px;
+  pointer-events: auto;
+}

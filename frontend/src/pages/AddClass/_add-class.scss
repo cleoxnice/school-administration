@@ -1,0 +1,13 @@
+.add-class__form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.add-class__empty-teacher-list {
+  pointer-events: none;
+}
+
+.add-class__add-teacher-button{
+  pointer-events: auto;
+}
